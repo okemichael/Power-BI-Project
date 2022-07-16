@@ -1,4 +1,4 @@
-# ![](Data.jpg)
+# ![](Pic.jpg)
 
 # Boomerang Inc. Metrics: Sales Analysis for the year 2017 to 2018
 
@@ -45,7 +45,7 @@ Power BI automatically connected related tables. The Sales table is the fact tab
 ![](Modelling.JPG)
 
 ## Data Analysis and Visuals
-![](Dashboard.pdf)
+![](dashboard.JPG)
 From the analysis in the dashboard:
 1. The Total Sales made in 2017 was $343M with a Profit of $78.12M, Total Sales made in 2018 was $512M with a Profit of 116.90M, Total Sales made in 2019 was $116M        with a Profit of 37.91M, Total Sales made in 2020 was $544M with a Profit of $157.92M and Total Sales made in 2021 was $435M with a Profit of $133.10M.
 2. A high sales was made in Oakland city with a Total Sales of $58.79M
