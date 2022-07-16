@@ -1,6 +1,6 @@
 # Boomerang Inc. Metrics: Sales Analysis for the year 2017 to 2018
 
-# ![](Data.jpeg)
+# ![](Data.jpg)
 
 ## Introduction
 
