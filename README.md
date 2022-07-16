@@ -43,7 +43,7 @@ Some of the applied steps includes:
 
 ## DATA MODELLING
 Power BI automatically connected related tables. The Sales table is the fact table of the model. The remaining three dimension tables; dProduct was connected to Sales table via common column Product ID, dSalesReps table was connected to Sales table via common column SalesRepID while dDate table was connected to Sales table via common column Date.
-![](Modellingg.JPG)
+![](Modelling.JPG)
 
 ## Data Analysis and Visuals
 ![](Dashboard.pdf)
